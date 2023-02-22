@@ -21,12 +21,11 @@ public class 반복문_while {
 		System.out.print("숫자입력>");
 		int a = sc.nextInt();
 		
-		if(a == 0) {
-			System.out.print("끝");
-		}while(a >= 1 || 0 <= 1) {
+		while(a >= 1 || a <= -1) {
 			System.out.print("숫자입력>");
 			a = sc.nextInt();	
 		}
+			System.out.print("끝");
 		
 	}
 	
