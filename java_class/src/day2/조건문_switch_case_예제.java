@@ -8,7 +8,7 @@ public class 조건문_switch_case_예제 {
 		// 문제) 변수 a에 숫자를 입력 받고 , 1~12까지 각각 영어로 달을 띄워라
 		// January , February , March , April , May , June , July
 		//August , September , October , November , December
-		/* Scanner sc = new Scanner(System.in);
+		 Scanner sc = new Scanner(System.in);
 		System.out.print("숫자를 입력해주세여>>");
 		int a = sc.nextInt();
 		
